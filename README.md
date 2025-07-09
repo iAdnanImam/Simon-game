@@ -14,7 +14,7 @@ A fun and interactive memory-based game built with **HTML**, **CSS**, and **Java
 
 ![Simon Game Demo](screenshot.png)  
 > 
-
+Deployed Link: https://iadnanimam.github.io/Simon-game/
 ---
 
 ## 🧠 How to Play
@@ -39,11 +39,11 @@ A fun and interactive memory-based game built with **HTML**, **CSS**, and **Java
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon-game.git
+   git clone https://github.com/iAdnanImam/simon-game.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd simon-game ```
+   cd simon-game 
 3.Open index.html in your browser.
    
 
